@@ -8,7 +8,8 @@
 
 ```
 
-git clone https://github.com/yourusername/yourproject.git
+git clone https://github.com/smimahs/ohlc.git
+cd ohlc
 
 ```
 
