@@ -1,4 +1,6 @@
 # ohlc
+This is a RESTful HTTP API built with Go that centralizes and digitalizes OHLC price data in CSV format. It allows users to upload and process CSV files, validate the files, store the data in a SQL database, and retrieve the data through pagination and search.
+
 ## Setup
 
 1.    Install Docker on your local machine.
@@ -145,3 +147,8 @@ Response Body
 ## License
 
 This project is licensed under the MIT License.
+
+## Authors
+
+Shamim Sanisales 
+[Shamim](https://shsanisales.ir)
